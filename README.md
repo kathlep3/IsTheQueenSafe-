@@ -1,0 +1,3 @@
+Kathleen Pham
+
+This program is similar to the game Chess where a player aim to take over the board and defeat the other player's characters, then eventually their queen. Once the other player's queen is captured, the game is over and the captor wins. Queens can also only be captured by another queen. In this version, only queens exist and there can be multiple queens. Following a regular game of chess, queens can move diagonally, vertically, and horizontally by one space. A queen is unsafe if there is another queen directly next to it diagonally, vertically, or horizontally. This program has functions that will check if a queen exists or is unsafe, and allow users to add or remove queens. 
